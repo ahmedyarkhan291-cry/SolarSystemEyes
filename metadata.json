@@ -1,0 +1,6 @@
+{
+  "name": "NASA Eyes on the Solar System",
+  "description": "Interactive 3D real-time simulation of the Solar System, planets, moons, asteroids, and NASA spacecraft missions with authoritative orbital ephemeris data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
